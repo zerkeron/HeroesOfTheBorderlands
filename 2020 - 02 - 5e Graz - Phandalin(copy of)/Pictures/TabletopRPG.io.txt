@@ -1,0 +1,5 @@
+Tabletoprpg.io
+https://tabletoprpg.io/tabletop/?game=5e7165a8c9dc0911bb45322e
+
+Player-join:
+https://tabletoprpg.io/login?joinGame=5e7165a8c9dc0911bb45322e
